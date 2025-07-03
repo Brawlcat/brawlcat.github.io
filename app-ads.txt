@@ -2344,3 +2344,4 @@ vungle.com, 64a42f719cd8d6001106d1cb, DIRECT, 5678
 vungle.com, 64a42f719cd8d6001106d1cb, RESELLER, 6789
 pangleglobal.com, 5026670, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b
