@@ -16,6 +16,7 @@ facebook.com, 626531606518512, RESELLER, c3e20eee3f780d68
 facebook.com, 846319879764341, RESELLER, c3e20eee3f780d68
 google.com, pub-8756363741190598, DIRECT, f08c47fec0942fa0
 applovin.com, a1034e6ab1080c727974647c65ba0fbb, DIRECT
+mintegral.com, 53585, DIRECT, 0aeed750c80d6423
 ironsrc.com, e6a5a346, DIRECT
 pangleglobal.com, 5026670, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
